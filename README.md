@@ -32,6 +32,11 @@
 
 ### 技术移民的常见国家（地区）整理
 
+更舒服的[表格阅读体验](https://github.com/Knowckx/awesome-run/blob/main/README.md)(表格宽度会更大)
+
+
+#### 国家地区具体整理表
+
 |     | 国家/地区 | 获取永久居留权（俗称绿卡，PR）                                                                                                                                      | 移民监 - 保持永久居留                                              | 获取国籍/护照                                                                  | 公民身份福利                                             | 双国籍     |
 | --- | ----- | ----------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------- | ------------------------------------------------------------------------ | -------------------------------------------------- | ------- |
 | 亚洲  | 中国香港  | 香港永久性居民身份<br>需在香港工作生活满七年                                                                                                                              | 如果不是中国公民，且连续36个月或以上不在香港，可能会丧失永久居民身份。                      | - 申请香港特区护照，要求是中国公民和拥有香港永久居民身份<br>- 一个外国人可以同时持有原国籍+拥有香港永久性居民身份，但是无法申请香港护照 | 香港永久性居民可以申请《港澳居民来往内地通行证》（俗称“回乡证”）到内地生活工作           | 不承认<br> |
@@ -65,7 +70,12 @@ Immigration policies are complex and change frequently. The strength of this gui
 
 
 
-### **Global Paths to Permanent Residency and Citizenship for Tech Professionals**
+### An Overview of Popular Countries & Regions for Skilled Migration
+[For a better table reading experience](https://github.com/Knowckx/awesome-run/blob/main/README.md) (wider table format).
+
+#### Detailed Summary Table by Country & Region
+
+
 
 | | Country/Region | Obtaining Permanent Residency (PR) | Residency Obligation - Maintaining PR | Acquiring Citizenship/Passport | Citizenship Benefits | Dual Citizenship |
 | :--- | :--- | :--- | :--- | :--- | :--- | :--- |
