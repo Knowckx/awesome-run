@@ -9,11 +9,14 @@
 
 # 中文
 
+
+
 > 未曾设想的道路 - 中国打工人的润学指南
 
-本文来源于个人Blog文章，在github备份
-我的个人博客 [knowckx's blog](https://blog.knowckx.top/)
-源文地址 [awesome-run](https://blog.knowckx.top/p/awesome-run/)
+本文来源于个人Blog文章  
+[![Blog](https://img.shields.io/badge/Blog-knowckx.top-0f766e?style=for-the-badge&logo=googlechrome&logoColor=white)](https://blog.knowckx.top/p/awesome-run/)
+
+
 
 ---
 **awesome-run** 是一份为技术人才准备的全球机遇指南 & 移民攻略。  
