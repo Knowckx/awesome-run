@@ -102,8 +102,8 @@
 
 ## 📊 数据与工具推荐
 
-- [移民数据 YiminShuju](https://yiminshuju.com/)：美国绿卡排期官方公告逐类结构化对比（15 类别 × 表A/表B × 中国大陆/全球/印度口径，逐格标注较上月前进/倒退），含加拿大 EE 447 轮抽签记录、各国审理时间与 6 国积分自测器，免费、无广告、不做中介。
-- [visa-bulletin-cn](https://github.com/xjokerabab/visa-bulletin-cn)：上站数据的开源 JSON 版（2023-01 至今 45 期，单月 90 条），可直接程序化消费。
+- [移民数据 YiminShuju](https://yiminshuju.com/)：提供美国签证排期、加拿大 EE 抽签记录及部分移民相关数据工具。
+- [visa-bulletin-cn](https://github.com/xjokerabab/visa-bulletin-cn)：美国 Visa Bulletin 的中文结构化 JSON 数据。
 
 # English
 
